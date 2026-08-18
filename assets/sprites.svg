@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="256" viewBox="0 0 512 256">
+<rect width="512" height="256" fill="none"/>
+<g transform="translate(64 64)">
+<circle r="31" fill="#f4dfaa" stroke="#211710" stroke-width="6"/>
+<path d="M-31-8h62v24c0 23-14 34-31 34s-31-11-31-34z" fill="#fff1c8" stroke="#211710" stroke-width="6"/>
+<path d="M-32-13q7-33 32-33t32 33" fill="#c83b2f" stroke="#211710" stroke-width="6"/>
+<circle cx="-11" cy="-4" r="4" fill="#211710"/><circle cx="11" cy="-4" r="4" fill="#211710"/>
+<path d="M-15 15q15 12 30 0" fill="none" stroke="#211710" stroke-width="5" stroke-linecap="round"/>
+<path d="M-24 38l-11 23M24 38l11 23" stroke="#211710" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g transform="translate(128 0)">
+<g transform="translate(64 64)"><path d="M-31-4q4-30 31-30t31 30v47h-62z" fill="#7a4b36" stroke="#211710" stroke-width="6"/><circle cx="-11" cy="-5" r="5" fill="#f3dca5"/><circle cx="11" cy="-5" r="5" fill="#f3dca5"/><path d="M-9 24h18" stroke="#211710" stroke-width="5" stroke-linecap="round"/></g></g>
+<g transform="translate(256 0)">
+<g transform="translate(64 64)"><path d="M-30 5q0-31 30-31t30 31v42h-60z" fill="#3e6671" stroke="#211710" stroke-width="6"/><path d="M-39 2h78M-28 49h56" stroke="#211710" stroke-width="6"/><circle cx="-12" cy="-6" r="5" fill="#f3dca5"/><circle cx="12" cy="-6" r="5" fill="#f3dca5"/></g></g>
+<g transform="translate(384 0)">
+<g transform="translate(64 64)"><path d="M-25-32h50l9 67H-34z" fill="#572d3a" stroke="#211710" stroke-width="6"/><circle cx="-11" cy="-5" r="5" fill="#f3dca5"/><circle cx="11" cy="-5" r="5" fill="#f3dca5"/><path d="M-23-29h46" stroke="#f2c773" stroke-width="6"/></g></g>
+<g transform="translate(0 128)">
+<g transform="translate(128 64)"><path d="M-98 35Q-92-39 0-52Q92-39 98 35Z" fill="#4a352b" stroke="#211710" stroke-width="8"/><circle r="52" fill="#d3a552" stroke="#211710" stroke-width="8"/><path d="M-31 0h18M13 0h18" stroke="#211710" stroke-width="11" stroke-linecap="round"/><path d="M-29 28q29 20 58 0" fill="none" stroke="#211710" stroke-width="8" stroke-linecap="round"/><path d="M-60-39l-17-25M60-39l17-25" stroke="#211710" stroke-width="10" stroke-linecap="round"/></g></g>
+</svg>
